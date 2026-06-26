@@ -37,9 +37,7 @@ The pipeline recovered three coherent astrocyte morphotypes from **4,664 cells**
 | Bipolar (simple) | 1,798 | elongated, two dominant processes |
 | Bushy / complex | 882 | dense, highly branched |
 
-> _Add your UMAP scatter colored by cluster + representative cell montages here._
->
-> `![UMAP clusters](./assets/umap.png)`
+
 
 ## Tech stack
 
