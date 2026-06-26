@@ -57,4 +57,4 @@ Four distinct morphology clusters were recovered fully unsupervised, with clear 
 
 This is the representation-learning and analytics layer of an end to end cell-analysis program. It converts raw model outputs into a structured, spatial, label-free phenotype map that other systems can build on. The same pattern of detect, describe, cluster, map generalizes to any tissue and any cell type, which is what makes it a reusable platform rather than a single experiment.
 
-<sub>Code is private under institutional agreements. A technical walkthrough is available on request.</sub>
+<sub>Code is private under institutional agreements.
