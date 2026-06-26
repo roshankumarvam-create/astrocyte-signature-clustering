@@ -21,7 +21,7 @@ A morphometric feature pipeline feeding an unsupervised embedding and clustering
 
 ![Clustering pipeline](./assets/architecture.svg)
 
-1. **Cell crops** are taken from the detection/segmentation stage ([sibling project](../astrocyte-detection-segmentation)).
+1. **Cell crops** are taken from the detection/segmentation stage ([sibling project](https://github.com/roshankumarvam-create/astrocyte-detection-segmentation)).
 2. **Morphometric feature vector** — each cell is described by interpretable shape descriptors: soma area, branch count, total process length, branching complexity, convex-hull ratios, symmetry.
 3. **Embedding** — features are projected to a low-dimensional manifold (UMAP) to expose structure.
 4. **Unsupervised clustering** groups cells into morphotypes with no labels supplied.
